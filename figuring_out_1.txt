@@ -4,3 +4,5 @@ Just some random stuff to check whether i can put some file on my local mahine a
 Adding a second commit.
 
 3: adding something from github page to try git pull on local.
+
+4: trying commands from CMD. till now had used Git-Bash app
